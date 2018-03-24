@@ -31,3 +31,4 @@
 *.out
 *.app
 /STM32F103_NUCLEO/
+/STM32F411_NUCLEO/
